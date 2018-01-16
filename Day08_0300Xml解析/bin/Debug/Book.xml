@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book>
+    <bookid>1</bookid>
+    <bookname>艰难的抉择</bookname>
+    <bookauthor>卡莉·菲奥莉娜</bookauthor>
+    <bookprice>50</bookprice>
+  </book>
+  <book>
+    <bookid>2</bookid>
+    <bookname>不做大哥好多年</bookname>
+    <bookauthor>王小鲁</bookauthor>
+    <bookprice>70</bookprice>
+  </book>
+  <book>
+    <bookid>3</bookid>
+    <bookname>平凡的世界</bookname>
+    <bookauthor>路遥</bookauthor>
+    <bookprice>80</bookprice>
+  </book>
+</books>
